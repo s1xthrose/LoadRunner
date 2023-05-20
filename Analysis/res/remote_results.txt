@@ -1,2 +1,0 @@
-[Hosts]
-localhost=c:\users\anton\desktop\lr_practice\rslts\res\localhost_1.eve
