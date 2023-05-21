@@ -1,0 +1,2 @@
+[Hosts]
+localhost=c:\users\anton\desktop\lr_practice\analysis\debug\res\localhost_1.eve

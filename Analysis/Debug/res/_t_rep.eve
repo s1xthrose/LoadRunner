@@ -1,0 +1,53 @@
+28 11 1684534805 2 203058520 188317080 1699572
+28 4 uc_4_searchflight_1 1 1684534805 0 uc_4_searchflight_1 localhost 0 1
+28 10 localhost 28 0 0
+28 0 uc_4_searchflight_1 1 1684534805 0 localhost 0
+28 8 uc_4_searchflight_1 1  0 0
+28 2 uc_4_searchflight_1 1 1684534805 0 p 0 0
+28 4 uc_1_booking_1 1 1684534810 0 uc_1_booking_1 localhost 0 1
+28 0 uc_1_booking_1 1 1684534810 0 localhost 0
+28 8 uc_1_booking_1 1  0 0
+28 2 uc_1_booking_1 1 1684534810 0 p 0 0
+28 4 uc_3_regnewuser_1 1 1684534815 0 uc_3_regnewuser_1 localhost 0 1
+28 0 uc_3_regnewuser_1 1 1684534815 0 localhost 0
+28 8 uc_3_regnewuser_1 1  0 0
+28 2 uc_3_regnewuser_1 1 1684534815 0 p 0 0
+28 4 uc_6_iterary_1 1 1684534820 0 uc_6_iterary_1 localhost 0 1
+28 0 uc_6_iterary_1 1 1684534820 0 localhost 0
+28 8 uc_6_iterary_1 1  0 0
+28 2 uc_6_iterary_1 1 1684534820 0 p 0 0
+28 4 uc_5_login_1 1 1684534825 0 uc_5_login_1 localhost 0 1
+28 0 uc_5_login_1 1 1684534825 0 localhost 0
+28 8 uc_5_login_1 1  0 0
+28 2 uc_5_login_1 1 1684534825 0 p 0 0
+28 4 uc_2_delete_booking_1 1 1684534830 0 uc_2_delete_booking_1 localhost 0 1
+28 0 uc_2_delete_booking_1 1 1684534830 0 localhost 0
+28 8 uc_2_delete_booking_1 1  0 0
+28 2 uc_2_delete_booking_1 1 1684534830 0 p 0 0
+28 4 uc_3_regnewuser_1 2 1684534835 0 uc_3_regnewuser_1 localhost 0 1
+28 0 uc_3_regnewuser_1 2 1684534835 0 localhost 0
+28 8 uc_3_regnewuser_1 2  0 0
+28 2 uc_3_regnewuser_1 2 1684534835 0 p 0 0
+28 4 uc_1_booking_1 2 1684534840 0 uc_1_booking_1 localhost 0 1
+28 0 uc_1_booking_1 2 1684534840 0 localhost 0
+28 8 uc_1_booking_1 2  0 0
+28 2 uc_1_booking_1 2 1684534840 0 p 0 0
+28 4 uc_4_searchflight_1 2 1684534845 0 uc_4_searchflight_1 localhost 0 1
+28 0 uc_4_searchflight_1 2 1684534845 0 localhost 0
+28 8 uc_4_searchflight_1 2  0 0
+28 2 uc_4_searchflight_1 2 1684534845 0 p 0 0
+28 4 uc_6_iterary_1 2 1684534850 0 uc_6_iterary_1 localhost 0 1
+28 0 uc_6_iterary_1 2 1684534850 0 localhost 0
+28 8 uc_6_iterary_1 2  0 0
+28 2 uc_6_iterary_1 2 1684534850 0 p 0 0
+28 1 uc_5_login_1 1 1684536170 0 2
+28 1 uc_4_searchflight_1 1 1684536170 0 2
+28 1 uc_3_regnewuser_1 1 1684536170 0 2
+28 1 uc_6_iterary_1 2 1684536170 0 2
+28 1 uc_4_searchflight_1 2 1684536170 0 2
+28 1 uc_2_delete_booking_1 1 1684536170 0 2
+28 1 uc_1_booking_1 1 1684536170 0 2
+28 1 uc_6_iterary_1 1 1684536170 0 2
+28 1 uc_3_regnewuser_1 2 1684536173 0 2
+28 1 uc_1_booking_1 2 1684536177 0 2
+28 12 1684536177 1 1684536177 0 1684536177

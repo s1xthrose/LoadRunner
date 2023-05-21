@@ -1,0 +1,43 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2020.0.0.0
+Path=C:\Users\Anton\Desktop\LR_practice\Controller\Max_Load_Search.lrs
+Subject=Max_Load_Search
+Result_file=c:\users\anton\desktop\lr_practice\analysis\max_load_search\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-14400
+Start_time=1684537733
+Daylight_Bias=0
+Stop_time=1684544453
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 2
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers simultaneously
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST10_1E2;R1320;ST10_1E2;R1320;ST10_1E2;R1320;ST10_1E2;R1320;ST10_1E2;R1320;SP50;
+[Scripts]
+uc_4_searchflight_1=C:\Users\Anton\Desktop\LR_practice\Scripts\UC_4_SearchFlight\UC_4_SearchFlight.usr
+uc_1_booking_1=C:\Users\Anton\Desktop\LR_practice\Scripts\UC_1_Booking\UC_1_Booking.usr
+uc_3_regnewuser_1=C:\Users\Anton\Desktop\LR_practice\Scripts\UC_3_regNewUser\UC_3_regNewUser.usr
+uc_6_iterary_1=C:\Users\Anton\Desktop\LR_practice\Scripts\UC_6_Iterary\UC_6_Iterary.usr
+uc_5_login_1=C:\Users\Anton\Desktop\LR_practice\Scripts\UC_5_Login\UC_5_Login.usr
+uc_2_delete_booking_1=C:\Users\Anton\Desktop\LR_practice\Scripts\UC_2_Delete_booking\UC_2_Delete_booking.usr
+[Scripts_types]
+uc_4_searchflight_1=Multi+QTWeb
+uc_1_booking_1=Multi+QTWeb
+uc_3_regnewuser_1=Multi+QTWeb
+uc_6_iterary_1=Multi+QTWeb
+uc_5_login_1=Multi+QTWeb
+uc_2_delete_booking_1=Multi+QTWeb
