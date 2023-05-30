@@ -8,7 +8,7 @@
 <a2:TErrorsDataContainer id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/ErrorsDataContainer/Analysis.LTErrors">
 <m_DataCollection href="#ref-5"/>
 <m_IsValid>true</m_IsValid>
-<m_NoDataFlag>true</m_NoDataFlag>
+<m_NoDataFlag>false</m_NoDataFlag>
 <m_PrimaryException xsi:null="1"/>
 </a2:TErrorsDataContainer>
 <a2:TErrorsDataContainer id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/ErrorsDataContainer/Analysis.LTErrors">
@@ -76,7 +76,7 @@
 <a5:TimeRangeRecord id="ref-9" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>2760</m_PeriodStartInSec>
 <m_PeriodEndInSec>2820</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -85,7 +85,7 @@
 <a5:TimeRangeRecord id="ref-10" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>2820</m_PeriodStartInSec>
 <m_PeriodEndInSec>2880</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -94,7 +94,7 @@
 <a5:TimeRangeRecord id="ref-11" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>2880</m_PeriodStartInSec>
 <m_PeriodEndInSec>2940</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -103,8 +103,8 @@
 <a5:TimeRangeRecord id="ref-12" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>2940</m_PeriodStartInSec>
 <m_PeriodEndInSec>3000</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
-<m_ActualValue>0</m_ActualValue>
+<m_Status>rulesStatusNoData</m_Status>
+<m_ActualValue>0.01666666</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
 <m_LoadValue>0</m_LoadValue>
@@ -112,7 +112,7 @@
 <a5:TimeRangeRecord id="ref-13" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3000</m_PeriodStartInSec>
 <m_PeriodEndInSec>3060</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -121,7 +121,7 @@
 <a5:TimeRangeRecord id="ref-14" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3060</m_PeriodStartInSec>
 <m_PeriodEndInSec>3120</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -130,7 +130,7 @@
 <a5:TimeRangeRecord id="ref-15" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3120</m_PeriodStartInSec>
 <m_PeriodEndInSec>3180</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -139,7 +139,7 @@
 <a5:TimeRangeRecord id="ref-16" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3180</m_PeriodStartInSec>
 <m_PeriodEndInSec>3240</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -148,7 +148,7 @@
 <a5:TimeRangeRecord id="ref-17" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3240</m_PeriodStartInSec>
 <m_PeriodEndInSec>3300</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -157,7 +157,7 @@
 <a5:TimeRangeRecord id="ref-18" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3300</m_PeriodStartInSec>
 <m_PeriodEndInSec>3360</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -166,8 +166,8 @@
 <a5:TimeRangeRecord id="ref-19" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3360</m_PeriodStartInSec>
 <m_PeriodEndInSec>3420</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
-<m_ActualValue>0</m_ActualValue>
+<m_Status>rulesStatusNoData</m_Status>
+<m_ActualValue>0.03333333</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
 <m_LoadValue>0</m_LoadValue>
@@ -175,7 +175,7 @@
 <a5:TimeRangeRecord id="ref-20" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3420</m_PeriodStartInSec>
 <m_PeriodEndInSec>3480</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -184,7 +184,7 @@
 <a5:TimeRangeRecord id="ref-21" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3480</m_PeriodStartInSec>
 <m_PeriodEndInSec>3540</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -193,7 +193,7 @@
 <a5:TimeRangeRecord id="ref-22" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3540</m_PeriodStartInSec>
 <m_PeriodEndInSec>3600</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -202,7 +202,7 @@
 <a5:TimeRangeRecord id="ref-23" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3600</m_PeriodStartInSec>
 <m_PeriodEndInSec>3660</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -211,8 +211,8 @@
 <a5:TimeRangeRecord id="ref-24" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3660</m_PeriodStartInSec>
 <m_PeriodEndInSec>3720</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
-<m_ActualValue>0</m_ActualValue>
+<m_Status>rulesStatusNoData</m_Status>
+<m_ActualValue>0.01666666</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
 <m_LoadValue>0</m_LoadValue>
@@ -220,7 +220,7 @@
 <a5:TimeRangeRecord id="ref-25" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3720</m_PeriodStartInSec>
 <m_PeriodEndInSec>3780</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -229,7 +229,7 @@
 <a5:TimeRangeRecord id="ref-26" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3780</m_PeriodStartInSec>
 <m_PeriodEndInSec>3840</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -238,7 +238,7 @@
 <a5:TimeRangeRecord id="ref-27" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3840</m_PeriodStartInSec>
 <m_PeriodEndInSec>3900</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -247,7 +247,7 @@
 <a5:TimeRangeRecord id="ref-28" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3900</m_PeriodStartInSec>
 <m_PeriodEndInSec>3960</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>
@@ -256,7 +256,7 @@
 <a5:TimeRangeRecord id="ref-29" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_PeriodStartInSec>3960</m_PeriodStartInSec>
 <m_PeriodEndInSec>3960</m_PeriodEndInSec>
-<m_Status>rulesStatusOK</m_Status>
+<m_Status>rulesStatusNoData</m_Status>
 <m_ActualValue>0</m_ActualValue>
 <m_ExpectedValue>0</m_ExpectedValue>
 <m_FormattedActualValue xsi:null="1"/>

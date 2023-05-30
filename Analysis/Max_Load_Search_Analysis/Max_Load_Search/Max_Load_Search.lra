@@ -1,12 +1,12 @@
 ﻿[Workspace]
 SessionStartTime=0
-SessionEndTime=6721
+SessionEndTime=6717
 VerNo=13
 IsSummaryData=0
 TimeFormat=0
 SesLang=RUS
 ABuild=0
-DataBaseName=resl27533087DB
+DataBaseName=resu382986371DB
 DBType=1
 CurrServer=DEV219NG
 CurrUser=sa
@@ -38,13 +38,13 @@ FEndTime=84600
 
 [Result0]
 LRRID=
-ResultPath=C:\Users\Anton\Desktop\LR_practice\Analysis\Max_Load_Search\res\res.lrr
+ResultPath=C:\Users\Anton\Desktop\LR_practice\Analysis\Max_Load_Search\results\results.lrr
 ResultTDPath=
 NumFilters=0
 ScenarioTimeZone=-14400
 DaylightSavingSecsAddition=0
-ScenarioStartTime=1684537733
-ScenarioEndTime=1684544454
+ScenarioStartTime=1684869764
+ScenarioEndTime=1684876481
 ResInSD=0
 WebGran=0
 FilterEdge=0

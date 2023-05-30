@@ -139,11 +139,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-21" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.07099999</m_RealValue>
+<m_RealValue>0.228</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-22" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.07099999</m_RealValue>
+<m_RealValue>0.228</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-23" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -160,11 +160,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-24" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.108</m_RealValue>
+<m_RealValue>0.109</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-25" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.108</m_RealValue>
+<m_RealValue>0.109</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-26" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -181,11 +181,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-27" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.278</m_RealValue>
+<m_RealValue>0.87</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-28" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.278</m_RealValue>
+<m_RealValue>0.87</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-29" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -202,11 +202,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-30" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.13</m_RealValue>
+<m_RealValue>0.127</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-31" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.13</m_RealValue>
+<m_RealValue>0.127</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-32" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -223,11 +223,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-33" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.22</m_RealValue>
+<m_RealValue>0.425</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-34" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.22</m_RealValue>
+<m_RealValue>0.425</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-35" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -244,11 +244,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-36" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.105</m_RealValue>
+<m_RealValue>0.101</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-37" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.105</m_RealValue>
+<m_RealValue>0.101</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-38" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -265,11 +265,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-39" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.049</m_RealValue>
+<m_RealValue>0.054</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-40" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.049</m_RealValue>
+<m_RealValue>0.054</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-41" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -286,11 +286,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-42" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.056</m_RealValue>
+<m_RealValue>0.157</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-43" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.056</m_RealValue>
+<m_RealValue>0.157</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-44" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -307,11 +307,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-45" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.168</m_RealValue>
+<m_RealValue>0.632</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-46" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.168</m_RealValue>
+<m_RealValue>0.632</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-47" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -328,11 +328,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-48" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.14099999</m_RealValue>
+<m_RealValue>0.362</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-49" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.14099999</m_RealValue>
+<m_RealValue>0.362</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-50" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -349,11 +349,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-51" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.166</m_RealValue>
+<m_RealValue>0.433</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-52" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.166</m_RealValue>
+<m_RealValue>0.433</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 <a7:SLAPercentileRuleDef id="ref-53" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -370,11 +370,11 @@
 <SLARuleDef_x002B_m_CalcDirection>greater_than_equal</SLARuleDef_x002B_m_CalcDirection>
 </a7:SLAPercentileRuleDef>
 <a7:SimpleRuleData id="ref-54" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
-<m_RealValue>0.106</m_RealValue>
+<m_RealValue>0.315</m_RealValue>
 </a7:SimpleRuleData>
 <a7:SLASimpleRuleResult id="ref-55" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.106</m_RealValue>
+<m_RealValue>0.315</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a7:SLASimpleRuleResult>
 </SOAP-ENV:Body>

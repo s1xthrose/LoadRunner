@@ -141,7 +141,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-19" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.198</m_RealValue>
+<m_RealValue>0.184</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-20" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -159,7 +159,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-21" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.109</m_RealValue>
+<m_RealValue>0.11</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-22" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -177,7 +177,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-23" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.428</m_RealValue>
+<m_RealValue>0.533</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-24" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -195,7 +195,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-25" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.132</m_RealValue>
+<m_RealValue>0.126</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-26" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -213,7 +213,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-27" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.342</m_RealValue>
+<m_RealValue>0.347</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-28" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -231,7 +231,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-29" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.1</m_RealValue>
+<m_RealValue>0.099</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-30" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -249,7 +249,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-31" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.052</m_RealValue>
+<m_RealValue>0.05</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-32" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -267,7 +267,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-33" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.14399999</m_RealValue>
+<m_RealValue>0.139</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-34" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -285,7 +285,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-35" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.538</m_RealValue>
+<m_RealValue>0.535</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-36" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -303,7 +303,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-37" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.229</m_RealValue>
+<m_RealValue>0.28999999</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-38" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -321,7 +321,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-39" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.621</m_RealValue>
+<m_RealValue>0.641</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 <a4:SLAPercentileRuleDef id="ref-40" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
@@ -339,7 +339,7 @@
 </a4:SLAPercentileRuleDef>
 <a4:SLASimpleRuleResult id="ref-41" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/SLARules/Analysis.SLA">
 <m_Status>rulesStatusOK</m_Status>
-<m_RealValue>0.259</m_RealValue>
+<m_RealValue>0.23</m_RealValue>
 <m_GoalValue>2.5</m_GoalValue>
 </a4:SLASimpleRuleResult>
 </SOAP-ENV:Body>

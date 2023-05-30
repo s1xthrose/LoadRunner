@@ -1,2 +1,0 @@
-[Hosts]
-localhost=c:\users\anton\desktop\lr_practice\analysis\max_load_search\res\localhost_1.eve

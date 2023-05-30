@@ -83,7 +83,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.000000
-Dim_1=0.009000
+Dim_1=0.007000
 
 [Breakdown_meter_Dim3]
 InternalDimName=Value
@@ -94,134 +94,134 @@ NumValues=43
 DimensionType=RelatedContinuous
 BaseDimension=Event Name
 DimCount=129
-Dim_0=0.001624
-Dim_1=6.888010
+Dim_0=0.001514
+Dim_1=6.347673
 Dim_2=localh.../bookanother.gif
-Dim_3=0.000699
-Dim_4=7.028146
+Dim_3=0.000662
+Dim_4=6.388537
 Dim_5=localh.../button_next.gif
-Dim_6=0.000697
-Dim_7=6.385896
+Dim_6=0.000745
+Dim_7=7.324034
 Dim_8=localh.../images/home.gif
-Dim_9=0.046176
-Dim_10=6.518715
+Dim_9=0.042583
+Dim_10=7.320736
 Dim_11=localh.../reservations.pl
-Dim_12=0.046259
-Dim_13=6.945629
+Dim_12=0.042667
+Dim_13=7.320857
 Dim_14=localh.../reservations.pl (main URL)
-Dim_15=0.001496
-Dim_16=7.059517
+Dim_15=0.001505
+Dim_16=7.169514
 Dim_17=localh...1080/favicon.ico
-Dim_18=0.000792
-Dim_19=7.841980
+Dim_18=0.000796
+Dim_19=7.263803
 Dim_20=localh...ages/flights.gif
-Dim_21=0.000722
-Dim_22=7.446213
+Dim_21=0.000765
+Dim_22=6.923583
 Dim_23=localh...ages/hp_logo.png
-Dim_24=0.001305
-Dim_25=7.842438
+Dim_24=0.001430
+Dim_25=7.618918
 Dim_26=localh...ages/in_home.gif
-Dim_27=0.001182
-Dim_28=7.842369
+Dim_27=0.001158
+Dim_28=7.619879
 Dim_29=localh...ages/signoff.gif
-Dim_30=0.040779
-Dim_31=6.928923
+Dim_30=0.041081
+Dim_31=7.138928
 Dim_32=localh...bin/itinerary.pl
-Dim_33=0.040870
-Dim_34=6.929022
+Dim_33=0.041181
+Dim_34=6.972170
 Dim_35=localh...bin/itinerary.pl (main URL)
-Dim_36=0.000775
-Dim_37=7.472725
+Dim_36=0.000771
+Dim_37=7.033675
 Dim_38=localh...bTours/home.html
-Dim_39=0.037069
-Dim_40=6.430728
+Dim_39=0.036574
+Dim_40=6.850591
 Dim_41=localh...cgi-bin/login.pl
-Dim_42=0.038778
-Dim_43=17.570159
+Dim_42=0.038747
+Dim_43=18.203598
 Dim_44=localh...cgi-bin/login.pl (main URL)
-Dim_45=0.000904
-Dim_46=7.842528
+Dim_45=0.001385
+Dim_46=7.263510
 Dim_47=localh...es/itinerary.gif
-Dim_48=0.000763
-Dim_49=0.028431
+Dim_48=0.000747
+Dim_49=0.026039
 Dim_50=localh...es/mer_login.gif
-Dim_51=0.001058
-Dim_52=8.220853
+Dim_51=0.001027
+Dim_52=7.701628
 Dim_53=localh...ges/webtours.png
-Dim_54=0.036015
-Dim_55=7.391317
+Dim_54=0.035988
+Dim_55=7.342979
 Dim_56=localh...n/nav.pl?in=home
-Dim_57=0.001406
-Dim_58=6.983118
+Dim_57=0.001446
+Dim_58=6.998416
 Dim_59=localh...ours/header.html
-Dim_60=0.000882
-Dim_61=0.028306
+Dim_60=0.000665
+Dim_61=7.323443
 Dim_62=localh...s/in_flights.gif
-Dim_63=0.040010
-Dim_64=7.762836
+Dim_63=0.040050
+Dim_64=7.863378
 Dim_65=localhos....pl?intro=true
-Dim_66=0.080327
-Dim_67=0.121455
+Dim_66=0.080642
+Dim_67=0.131923
 Dim_68=localhos....pl?page=menus
-Dim_69=0.134091
-Dim_70=12.351697
+Dim_69=0.141564
+Dim_70=12.463110
 Dim_71=localhos....pl?page=menus (main URL)
-Dim_72=0.000702
-Dim_73=5.255317
+Dim_72=0.000725
+Dim_73=6.739303
 Dim_74=localhos..._itinerary.gif
-Dim_75=0.039181
-Dim_76=0.118530
+Dim_75=0.039371
+Dim_76=0.111332
 Dim_77=localhos...=&getInfo=true
-Dim_78=0.039282
-Dim_79=7.068631
+Dim_78=0.039453
+Dim_79=6.436639
 Dim_80=localhos...=&getInfo=true (main URL)
-Dim_81=0.035969
-Dim_82=0.143195
+Dim_81=0.035847
+Dim_82=0.152886
 Dim_83=localhos...e.pl?signOff=1
-Dim_84=0.073956
-Dim_85=7.481310
+Dim_84=0.074559
+Dim_85=7.436869
 Dim_86=localhos...e.pl?signOff=1 (main URL)
-Dim_87=0.039180
-Dim_88=7.720503
+Dim_87=0.037876
+Dim_88=7.856556
 Dim_89=localhos...e=menu&in=home
-Dim_90=0.038188
-Dim_91=0.074955
+Dim_90=0.038500
+Dim_91=0.067241
 Dim_92=localhos...enu&in=flights
-Dim_93=0.000691
-Dim_94=6.088963
+Dim_93=0.000681
+Dim_94=7.137877
 Dim_95=localhos...eservation.gif
-Dim_96=0.000897
-Dim_97=5.327729
+Dim_96=0.000900
+Dim_97=6.388037
 Dim_98=localhos...ileValidate.js
-Dim_99=0.048464
-Dim_100=0.092126
+Dim_99=0.046270
+Dim_100=6.383184
 Dim_101=localhos...l?page=welcome
-Dim_102=0.037124
-Dim_103=7.028863
+Dim_102=0.037036
+Dim_103=7.083320
 Dim_104=localhos...l?signOff=true
-Dim_105=0.033920
-Dim_106=0.119055
+Dim_105=0.034357
+Dim_106=0.116205
 Dim_107=localhos...page=itinerary
-Dim_108=0.092492
-Dim_109=11.300105
+Dim_108=0.090515
+Dim_109=12.415379
 Dim_110=localhos...page=itinerary (main URL)
-Dim_111=0.034498
-Dim_112=0.071678
+Dim_111=0.034429
+Dim_112=0.082614
 Dim_113=localhos...pl?page=search
-Dim_114=0.088954
-Dim_115=6.109928
+Dim_114=0.092755
+Dim_115=10.859314
 Dim_116=localhos...pl?page=search (main URL)
-Dim_117=0.000723
-Dim_118=6.089489
+Dim_117=0.000716
+Dim_118=7.195031
 Dim_119=localhos...servations.gif
-Dim_120=0.036795
-Dim_121=6.398227
+Dim_120=0.036568
+Dim_121=7.141933
 Dim_122=localhos...u&in=itinerary
-Dim_123=0.001292
-Dim_124=6.959946
+Dim_123=0.001395
+Dim_124=7.522643
 Dim_125=localhost:1080/WebTours
-Dim_126=0.077969
-Dim_127=18.315750
+Dim_126=0.076990
+Dim_127=18.265547
 Dim_128=localhost:1080/WebTours (main URL)
 
 [Breakdown_meter_Dim4]
@@ -233,7 +233,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Breakdown_meter_Dim5]
 InternalDimName=Size
@@ -244,7 +244,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.415039
-Dim_1=126.322266
+Dim_1=429.646484
 
 [Breakdown_meter_Dim6]
 InternalDimName=DNS Resolution
@@ -266,7 +266,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.191406
-Dim_1=4.423828
+Dim_1=15.030273
 
 [Breakdown_meter_Dim8]
 InternalDimName=First Buffer
@@ -277,7 +277,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.000000
-Dim_1=47.256000
+Dim_1=46.246000
 
 [Breakdown_meter_Dim9]
 InternalDimName=SSL Handshaking
@@ -310,7 +310,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.000000
-Dim_1=47.255000
+Dim_1=46.245000
 
 [Breakdown_meter_Dim12]
 InternalDimName=Error
@@ -321,7 +321,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.000000
-Dim_1=0.000000
+Dim_1=0.001000
 
 [Breakdown_meter_Dim13]
 InternalDimName=Client
@@ -343,7 +343,7 @@ NumValues=1
 DimensionType=ContinuousNumber
 DimCount=2
 Dim_0=0.000000
-Dim_1=0.014000
+Dim_1=0.036000
 
 [Breakdown_meter_Dim15]
 InternalDimName=FTP Authentication
@@ -439,43 +439,43 @@ Dim_47=59
 Dim_48=60
 Dim_49=61
 Dim_50=62
-Dim_51=63
+Dim_51=64
 Dim_52=65
 Dim_53=66
-Dim_54=68
-Dim_55=69
+Dim_54=69
+Dim_55=70
 Dim_56=71
 Dim_57=72
 Dim_58=73
-Dim_59=76
-Dim_60=77
-Dim_61=78
-Dim_62=79
-Dim_63=80
-Dim_64=81
-Dim_65=82
-Dim_66=83
-Dim_67=84
-Dim_68=85
-Dim_69=87
-Dim_70=88
-Dim_71=89
-Dim_72=90
-Dim_73=91
-Dim_74=92
-Dim_75=93
-Dim_76=94
-Dim_77=96
-Dim_78=97
-Dim_79=98
-Dim_80=99
+Dim_59=74
+Dim_60=75
+Dim_61=76
+Dim_62=77
+Dim_63=78
+Dim_64=80
+Dim_65=81
+Dim_66=82
+Dim_67=83
+Dim_68=84
+Dim_69=85
+Dim_70=86
+Dim_71=87
+Dim_72=89
+Dim_73=90
+Dim_74=91
+Dim_75=92
+Dim_76=93
+Dim_77=94
+Dim_78=95
+Dim_79=97
+Dim_80=98
 Dim_81=100
 Dim_82=101
-Dim_83=102
-Dim_84=103
+Dim_83=103
+Dim_84=104
 Dim_85=105
-Dim_86=106
-Dim_87=107
+Dim_86=108
+Dim_87=109
 Dim_88=110
 Dim_89=111
 Dim_90=112
@@ -484,19 +484,19 @@ Dim_92=114
 Dim_93=115
 Dim_94=116
 Dim_95=117
-Dim_96=118
-Dim_97=119
+Dim_96=119
+Dim_97=120
 Dim_98=121
 Dim_99=122
 Dim_100=123
 Dim_101=124
 Dim_102=125
 Dim_103=126
-Dim_104=127
-Dim_105=128
+Dim_104=128
+Dim_105=129
 Dim_106=130
-Dim_107=131
-Dim_108=132
+Dim_107=133
+Dim_108=134
 Dim_109=135
 Dim_110=136
 Dim_111=137
@@ -505,37 +505,37 @@ Dim_113=139
 Dim_114=140
 Dim_115=141
 Dim_116=142
-Dim_117=143
-Dim_118=144
+Dim_117=144
+Dim_118=145
 Dim_119=146
 Dim_120=147
 Dim_121=148
 Dim_122=149
 Dim_123=150
 Dim_124=151
-Dim_125=152
-Dim_126=153
+Dim_125=153
+Dim_126=154
 Dim_127=155
 Dim_128=156
 Dim_129=157
 Dim_130=158
 Dim_131=159
-Dim_132=160
-Dim_133=161
-Dim_134=163
-Dim_135=164
-Dim_136=166
-Dim_137=167
+Dim_132=161
+Dim_133=162
+Dim_134=164
+Dim_135=165
+Dim_136=167
+Dim_137=168
 Dim_138=169
-Dim_139=170
-Dim_140=171
+Dim_139=171
+Dim_140=172
 Dim_141=173
 Dim_142=174
 Dim_143=175
 Dim_144=176
 Dim_145=177
-Dim_146=178
-Dim_147=179
+Dim_146=180
+Dim_147=181
 Dim_148=182
 Dim_149=183
 Dim_150=184
@@ -544,27 +544,27 @@ Dim_152=186
 Dim_153=187
 Dim_154=188
 Dim_155=189
-Dim_156=190
-Dim_157=191
+Dim_156=191
+Dim_157=192
 Dim_158=193
 Dim_159=194
 Dim_160=195
 Dim_161=196
 Dim_162=197
 Dim_163=198
-Dim_164=199
-Dim_165=200
+Dim_164=200
+Dim_165=201
 Dim_166=202
 Dim_167=203
 Dim_168=204
 Dim_169=205
-Dim_170=206
-Dim_171=207
-Dim_172=208
-Dim_173=209
+Dim_170=207
+Dim_171=208
+Dim_172=209
+Dim_173=210
 Dim_174=211
 Dim_175=212
-Dim_176=214
+Dim_176=213
 Dim_177=215
 Dim_178=216
 AsParent=1
@@ -579,7 +579,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Breakdown_meter_Dim20]
@@ -668,7 +668,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [DataPoint_meter_Dim1]
 InternalDimName=Event Name
@@ -752,13 +752,13 @@ DimCount=12
 Dim_0=1.000000
 Dim_1=1.000000
 Dim_2=Connection closed by server
-Dim_3=1.875000
-Dim_4=7.000000
+Dim_3=1.878049
+Dim_4=6.000000
 Dim_5=Connection Shutdowns
-Dim_6=-2.000000
+Dim_6=-1.181818
 Dim_7=3.000000
 Dim_8=Connections
-Dim_9=1.974359
+Dim_9=1.927711
 Dim_10=5.500000
 Dim_11=New Connections
 
@@ -813,7 +813,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [DataPoint_meter_Dim7]
@@ -958,7 +958,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Diagnostic_meter_Dim2]
 InternalDimName=Location name
@@ -1023,7 +1023,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Table_3]
@@ -1039,9 +1039,9 @@ NumValues=3
 DimensionType=DiscreteNumber
 UseEscapeSequence=1
 DimCount=3
-Dim_0=36
-Dim_1=37
-Dim_2=51
+Dim_0=39
+Dim_1=45
+Dim_2=52
 LikeMode=0
 
 [Error_meter_Dim1]
@@ -1053,9 +1053,9 @@ NumValues=3
 DimensionType=DiscreteNumber
 UseEscapeSequence=1
 DimCount=3
-Dim_0=7
-Dim_1=55
-Dim_2=62
+Dim_0=55
+Dim_1=77
+Dim_2=156
 LikeMode=0
 
 [Error_meter_Dim2]
@@ -1067,7 +1067,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Error_meter_Dim3]
 InternalDimName=Error Message
@@ -1078,22 +1078,22 @@ NumValues=16
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=16
-Dim_0=..\\\\Parameters\\\\common_lib.h(62) Error -26366 "Text=<title>Flight Selections</title>" not found for web_reg_find
-Dim_1=..\\\\Parameters\\\\common_lib.h(62) Error -26612 HTTP Status-Code=500 (Internal Server Error) for "http//localhost1080/cgi-bin/reservations.pl?page=welcome"
-Dim_2=..\\\\Parameters\\\\common_lib.h(7) Error -26366 "Text=Welcome\c <b>hill</b>\c to the Web Tours reservation pages." not found for web_reg_find
-Dim_3=..\\\\Parameters\\\\common_lib.h(7) Error -26612 HTTP Status-Code=500 (Internal Server Error) for "http//localhost1080/cgi-bin/login.pl?intro=true"
-Dim_4=..\\\\Parameters\\\\common_lib.h(7) Error -26612 HTTP Status-Code=500 (Internal Server Error) for "http//localhost1080/cgi-bin/nav.pl?page=menu&in=home"
-Dim_5=Action.c(55) Error -26368 "Text=1234529671-5630941-IK" found for web_reg_find (count=1)
-Dim_6=Action.c(55) Error -26368 "Text=123470494-1594722-IK" found for web_reg_find (count=1)
-Dim_7=Action.c(55) Error -26368 "Text=2880411-14701-NK" found for web_reg_find (count=1)
-Dim_8=Action.c(55) Error -26368 "Text=288049687-1100856-NK" found for web_reg_find (count=1)
-Dim_9=Action.c(55) Error -26368 "Text=288050859-1441031-NK" found for web_reg_find (count=1)
-Dim_10=Action.c(55) Error -26368 "Text=370358651-17587015-RV" found for web_reg_find (count=1)
-Dim_11=Action.c(55) Error -26368 "Text=558664-35233365-JB" found for web_reg_find (count=1)
-Dim_12=Action.c(55) Error -26368 "Text=82301899-11162395-AC" found for web_reg_find (count=1)
-Dim_13=Action.c(55) Error -26368 "Text=82314527-7647770-AC" found for web_reg_find (count=1)
-Dim_14=Action.c(55) Error -26368 "Text=82321877-3046479-AC" found for web_reg_find (count=1)
-Dim_15=Action.c(55) Error -26368 "Text=823248-2900-AC" found for web_reg_find (count=1)
+Dim_0=..\\\\Parameters\\\\common_lib.h(156) Error -26612 HTTP Status-Code=500 (Internal Server Error) for "http//localhost1080/cgi-bin/itinerary.pl"
+Dim_1=..\\\\Parameters\\\\common_lib.h(156) Error -26612 HTTP Status-Code=500 (Internal Server Error) for "http//localhost1080/cgi-bin/nav.pl?page=menu&in=itinerary"
+Dim_2=Action.c(55) Error -26368 "Text=1234485-5469-IK" found for web_reg_find (count=1)
+Dim_3=Action.c(55) Error -26368 "Text=164594132-1077962-KL" found for web_reg_find (count=1)
+Dim_4=Action.c(55) Error -26368 "Text=1646130-5808-KL" found for web_reg_find (count=1)
+Dim_5=Action.c(55) Error -26368 "Text=164620374-505403-KL" found for web_reg_find (count=1)
+Dim_6=Action.c(55) Error -26368 "Text=205755241-10716302-PM" found for web_reg_find (count=1)
+Dim_7=Action.c(55) Error -26368 "Text=329188547-13000242-YT" found for web_reg_find (count=1)
+Dim_8=Action.c(55) Error -26368 "Text=329199752-456431-YT" found for web_reg_find (count=1)
+Dim_9=Action.c(55) Error -26368 "Text=3703507448-2877095-RV" found for web_reg_find (count=1)
+Dim_10=Action.c(55) Error -26368 "Text=556392-95540092-JB" found for web_reg_find (count=1)
+Dim_11=Action.c(55) Error -26368 "Text=56458-3417181-JB" found for web_reg_find (count=1)
+Dim_12=Action.c(55) Error -26368 "Text=82302700-3625032-AC" found for web_reg_find (count=1)
+Dim_13=Action.c(55) Error -26368 "Text=82331533-1276294-AC" found for web_reg_find (count=1)
+Dim_14=Action.c(77) Error -26366 "Text=Welcome\c <b>pqxyuv34</b>\c to the Web Tours reservation pages." not found for web_reg_find
+Dim_15=Action.c(77) Error -26612 HTTP Status-Code=500 (Internal Server Error) for "http//localhost1080/cgi-bin/login.pl?intro=true"
 LikeMode=0
 
 [Error_meter_Dim4]
@@ -1217,7 +1217,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Error_meter_Dim9]
@@ -1392,68 +1392,68 @@ NumValues=21
 DimensionType=RelatedContinuous
 BaseDimension=Event Name
 DimCount=63
-Dim_0=5.183949
-Dim_1=69.889778
+Dim_0=5.269262
+Dim_1=70.579570
 Dim_2=Action_Transaction
-Dim_3=0.050614
-Dim_4=6.054077
+Dim_3=0.051526
+Dim_4=5.581459
 Dim_5=cancel_booking
-Dim_6=0.099190
-Dim_7=0.114761
+Dim_6=0.100862
+Dim_7=0.113454
 Dim_8=Choose_Flight
-Dim_9=0.146062
-Dim_10=11.078668
+Dim_9=0.150117
+Dim_10=11.373774
 Dim_11=click_Continue
-Dim_12=0.104305
-Dim_13=3.444088
+Dim_12=0.098424
+Dim_13=3.766849
 Dim_14=click_Flights
-Dim_15=0.096690
-Dim_16=11.055567
+Dim_15=0.090643
+Dim_16=10.819216
 Dim_17=click_Itinerary
-Dim_18=0.049778
-Dim_19=1.877015
+Dim_18=0.049639
+Dim_19=1.733731
 Dim_20=click_SignUpNow
-Dim_21=0.045942
-Dim_22=1.603912
+Dim_21=0.044943
+Dim_22=1.548424
 Dim_23=complete_profile
-Dim_24=0.049363
-Dim_25=5.412901
+Dim_24=0.049938
+Dim_25=6.004102
 Dim_26=Find_Flight
-Dim_27=0.087685
-Dim_28=16.678777
+Dim_27=0.094098
+Dim_28=16.789558
 Dim_29=login
-Dim_30=0.075497
-Dim_31=6.160301
+Dim_30=0.074150
+Dim_31=6.091959
 Dim_32=Logout
-Dim_33=0.079998
-Dim_34=16.366112
+Dim_33=0.078713
+Dim_34=16.940715
 Dim_35=open_homepage
-Dim_36=0.056322
-Dim_37=5.648058
+Dim_36=0.055775
+Dim_37=5.500163
 Dim_38=Payment_Details
-Dim_39=5.188331
-Dim_40=69.889709
+Dim_39=15.742506
+Dim_40=70.579502
 Dim_41=UC_1_Booking
-Dim_42=10.401560
-Dim_43=56.141619
+Dim_42=10.376652
+Dim_43=56.824743
 Dim_44=UC_2_Delete_booking
-Dim_45=5.479117
-Dim_46=34.117631
+Dim_45=5.476621
+Dim_46=36.110507
 Dim_47=UC_3_regNewUser
-Dim_48=5.183893
-Dim_49=54.973819
+Dim_48=10.612709
+Dim_49=54.823051
 Dim_50=UC_4_SearchFlight
-Dim_51=5.269400
-Dim_52=37.006622
+Dim_51=5.269189
+Dim_52=37.498973
 Dim_53=UC_5_Login
-Dim_54=5.391249
-Dim_55=42.528352
+Dim_54=5.399783
+Dim_55=41.454783
 Dim_56=UC_6_Itinerary
-Dim_57=0.000008
-Dim_58=0.000023
+Dim_57=0.000007
+Dim_58=0.000076
 Dim_59=vuser_end_Transaction
-Dim_60=0.000108
-Dim_61=0.000247
+Dim_60=0.000095
+Dim_61=0.000218
 Dim_62=vuser_init_Transaction
 
 [Event_meter_Dim3]
@@ -1465,7 +1465,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Event_meter_Dim4]
 InternalDimName=Host Location
@@ -1511,32 +1511,32 @@ Dim_8=35
 Dim_9=36
 Dim_10=47
 Dim_11=56
-Dim_12=64
+Dim_12=63
 Dim_13=67
-Dim_14=70
-Dim_15=74
-Dim_16=75
-Dim_17=86
-Dim_18=95
-Dim_19=104
-Dim_20=108
-Dim_21=109
-Dim_22=120
-Dim_23=129
-Dim_24=133
-Dim_25=134
-Dim_26=145
-Dim_27=154
-Dim_28=162
-Dim_29=165
-Dim_30=168
-Dim_31=172
-Dim_32=180
-Dim_33=181
-Dim_34=192
-Dim_35=201
-Dim_36=210
-Dim_37=213
+Dim_14=68
+Dim_15=79
+Dim_16=88
+Dim_17=96
+Dim_18=99
+Dim_19=102
+Dim_20=106
+Dim_21=107
+Dim_22=118
+Dim_23=127
+Dim_24=131
+Dim_25=132
+Dim_26=143
+Dim_27=152
+Dim_28=160
+Dim_29=163
+Dim_30=166
+Dim_31=170
+Dim_32=178
+Dim_33=179
+Dim_34=190
+Dim_35=199
+Dim_36=206
+Dim_37=214
 Dim_38=217
 AsParent=1
 BasedOnTableName=
@@ -1550,7 +1550,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Event_meter_Dim8]
@@ -1727,7 +1727,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [J2EETBD_meter_Dim3]
 InternalDimName=Num Exception
@@ -1760,7 +1760,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [J2EETBD_meter_Dim6]
@@ -1878,7 +1878,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [J2EETBD_Net_meter_Dim3]
 InternalDimName=Tree Path ID
@@ -2118,7 +2118,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [J2EETBD_Net_meter_Dim5]
@@ -2272,7 +2272,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Monitor_meter_Dim6]
 InternalDimName=Value
@@ -2283,83 +2283,83 @@ NumValues=26
 DimensionType=RelatedContinuous
 BaseDimension=Event Name
 DimCount=78
-Dim_0=0.041000
-Dim_1=101.550000
+Dim_0=0.068000
+Dim_1=4.746000
 Dim_2=% Disk Time (PhysicalDisk _Total)
-Dim_3=92.161000
-Dim_4=100.286000
+Dim_3=95.389000
+Dim_4=100.110000
 Dim_5=% Idle Time (PhysicalDisk _Total)
 Dim_6=0.000000
-Dim_7=0.455000
+Dim_7=0.326000
 Dim_8=% Interrupt Time (Processor _Total)
-Dim_9=0.423000
-Dim_10=11.751000
+Dim_9=0.033000
+Dim_10=7.585000
 Dim_11=% Privileged Time (Processor _Total)
-Dim_12=0.423000
-Dim_13=19.775000
+Dim_12=0.000000
+Dim_13=13.307000
 Dim_14=% Processor Time (Processor _Total)
-Dim_15=9281.000000
-Dim_16=10576.000000
+Dim_15=10657.000000
+Dim_16=11359.000000
 Dim_17=Available MBytes (Memory)
-Dim_18=4662.328000
-Dim_19=689632.653000
+Dim_18=4758.588000
+Dim_19=654962.330000
 Dim_20=Avg. Disk Bytes/Transfer (PhysicalDisk _Total)
-Dim_21=0.000000
-Dim_22=1.016000
+Dim_21=0.001000
+Dim_22=0.047000
 Dim_23=Avg. Disk Queue Length (PhysicalDisk _Total)
-Dim_24=234463232.000000
-Dim_25=263049216.000000
+Dim_24=354029568.000000
+Dim_25=384524288.000000
 Dim_26=Cache Bytes (Memory)
-Dim_27=10342490112.000000
-Dim_28=11861807104.000000
+Dim_27=8127361024.000000
+Dim_28=8662601728.000000
 Dim_29=Committed Bytes (Memory)
-Dim_30=2627.189000
-Dim_31=88642.042000
+Dim_30=1345.478000
+Dim_31=88140.146000
 Dim_32=Context Switches/sec (System)
-Dim_33=2.334000
-Dim_34=840.416000
+Dim_33=1.334000
+Dim_34=325.693000
 Dim_35=Disk Transfers/sec (PhysicalDisk _Total)
-Dim_36=131.160000
-Dim_37=10893.395000
+Dim_36=61.340000
+Dim_37=11374.182000
 Dim_38=File Data Operations/sec (System)
-Dim_39=94225.000000
-Dim_40=94543.000000
+Dim_39=105745.000000
+Dim_40=105828.000000
 Dim_41=Free Megabytes (LogicalDisk _Total)
-Dim_42=2018.544000
-Dim_43=60641.645000
+Dim_42=976.105000
+Dim_43=54601.973000
 Dim_44=Interrupts/sec (Processor _Total)
-Dim_45=30.958000
-Dim_46=197459.537000
+Dim_45=26.998000
+Dim_46=93798.596000
 Dim_47=Page Faults/sec (Memory)
 Dim_48=0.000000
-Dim_49=2874.345000
+Dim_49=222.709000
 Dim_50=Page Reads/sec (Memory)
 Dim_51=0.000000
-Dim_52=25102.032000
+Dim_52=6197.693000
 Dim_53=Pages/sec (Memory)
-Dim_54=562040832.000000
-Dim_55=609251328.000000
+Dim_54=497680384.000000
+Dim_55=506155008.000000
 Dim_56=Pool Nonpaged Bytes (Memory)
-Dim_57=766824448.000000
-Dim_58=784740352.000000
+Dim_57=689774592.000000
+Dim_58=704135168.000000
 Dim_59=Pool Paged Bytes (Memory)
-Dim_60=5869068288.000000
-Dim_61=7036227584.000000
+Dim_60=4009164800.000000
+Dim_61=4528390144.000000
 Dim_62=Private Bytes (Process _Total)
 Dim_63=0.000000
-Dim_64=10.000000
+Dim_64=1.000000
 Dim_65=Processor Queue Length (System)
 Dim_66=0.000000
-Dim_67=148.282000
+Dim_67=35.333000
 Dim_68=Split IO/Sec (PhysicalDisk _Total)
-Dim_69=234463232.000000
-Dim_70=263049216.000000
+Dim_69=354029568.000000
+Dim_70=384524288.000000
 Dim_71=System Cache Resident Bytes (Memory)
-Dim_72=2959.000000
-Dim_73=3442.000000
+Dim_72=2505.000000
+Dim_73=2892.000000
 Dim_74=Threads (Objects)
-Dim_75=3549663232.000000
-Dim_76=6200741888.000000
+Dim_75=2674475008.000000
+Dim_76=3834920960.000000
 Dim_77=Working Set (Process _Total)
 
 [Monitor_meter_Dim7]
@@ -2371,7 +2371,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Monitor_meter_Dim8]
@@ -2399,7 +2399,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Sap_osm_meter_Dim1]
@@ -2411,7 +2411,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Sap_osm_meter_Dim2]
 InternalDimName=PageOutKB
@@ -2811,7 +2811,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Sap_sr_meter_Dim6]
@@ -2900,7 +2900,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Sap_sr_meter_Dim14]
 InternalDimName=Database Time
@@ -3150,7 +3150,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [Sap_wpm_meter_Dim1]
@@ -3184,7 +3184,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [Sap_wpm_meter_Dim4]
 InternalDimName=Ended
@@ -3584,7 +3584,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [SARM_meter_Dim6]
@@ -3596,7 +3596,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [SARM_meter_Dim7]
 InternalDimName=Script Name
@@ -4025,7 +4025,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [SARM_Net_meter_Dim6]
@@ -4037,7 +4037,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [SARM_Net_meter_Dim7]
 InternalDimName=Script Name
@@ -4137,7 +4137,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [SQLBD_meter_Dim3]
@@ -4189,7 +4189,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [SQLBD_meter_Dim7]
 InternalDimName=VuserID
@@ -4608,7 +4608,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [TruClientBreakDown_meter_Dim6]
@@ -4649,7 +4649,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [TruClientBreakDown_meter_Dim9]
 InternalDimName=Group Name
@@ -5035,7 +5035,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [TruClientJsBreakdown_meter_Dim6]
@@ -5076,7 +5076,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [TruClientJsBreakdown_meter_Dim9]
 InternalDimName=Group Name
@@ -5438,7 +5438,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [URL_meter_Dim4]
@@ -5493,7 +5493,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [URL_meter_Dim8]
 InternalDimName=Group Name
@@ -5562,7 +5562,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [VuserEvent_meter_Dim3]
@@ -5618,7 +5618,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [VuserEvent_meter_Dim7]
 InternalDimName=Group Name
@@ -5791,7 +5791,7 @@ NumValues=1
 DimensionType=Discrete
 UseEscapeSequence=1
 DimCount=1
-Dim_0=res.lrr
+Dim_0=results.lrr
 LikeMode=0
 
 [WebEvent_meter_Dim5]
@@ -5862,7 +5862,7 @@ NumValues=1
 DimensionType=Continuous
 DimCount=2
 Dim_0=0.000000
-Dim_1=6721.000000
+Dim_1=6717.000000
 
 [WebEvent_meter_Dim10]
 InternalDimName=Value
@@ -5873,7 +5873,7 @@ NumValues=4
 DimensionType=RelatedContinuous
 BaseDimension=Event Name
 DimCount=12
-Dim_0=2.673913
+Dim_0=2.769231
 Dim_1=16.000000
 Dim_2=HTTP_200
 Dim_3=1.000000
@@ -5882,7 +5882,7 @@ Dim_5=HTTP_404
 Dim_6=1.000000
 Dim_7=1.000000
 Dim_8=HTTP_500
-Dim_9=3997.875000
-Dim_10=62104.826087
+Dim_9=3933.600000
+Dim_10=193163.500000
 Dim_11=Throughput
 
